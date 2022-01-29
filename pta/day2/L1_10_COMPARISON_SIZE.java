@@ -2,7 +2,7 @@ package com.lillanm.pta.day2;
 
 import java.util.Scanner;
 
-public class F_COMPARISON_SIZE {
+public class L1_10_COMPARISON_SIZE {
     public static void main(String[] args) {
         int[] arr    = new int[3];
         Scanner sc = new Scanner(System.in);

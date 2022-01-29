@@ -2,7 +2,7 @@ package com.lillanm.pta.day1;
 
 import java.util.Scanner;
 
-public class B_PRINTING_HOURGLASS {
+public class L1_02_PRINTING_HOURGLASS {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

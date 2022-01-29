@@ -2,7 +2,7 @@ package com.lillanm.pta.day2;
 
 import java.util.Scanner;
 
-public class C_PRONUNCIATIONC_NUMBER {
+public class L1_07_PRONUNCIATIONC_NUMBER {
     public static void main(String[] args) {
         Scanner scanner  =new Scanner(System.in);
         String num = scanner.next();

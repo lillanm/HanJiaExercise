@@ -2,7 +2,7 @@ package com.lillanm.pta.day1;
 
 import java.util.Scanner;
 
-public class C_SINGLE_DIGIT_STATISTICS {
+public class L1_03_SINGLE_DIGIT_STATISTICS {
 
         public static void main(String[] args) {
             Scanner scan = new Scanner(System.in);

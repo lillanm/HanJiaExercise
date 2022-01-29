@@ -2,7 +2,7 @@ package com.lillanm.pta.day1;
 
 import java.util.Scanner;
 
-public class D_CALCULATED_CELSIUS_TEMPERATURE4 {
+public class L1_04_CALCULATED_CELSIUS_TEMPERATURE4 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int F = scan.nextInt();

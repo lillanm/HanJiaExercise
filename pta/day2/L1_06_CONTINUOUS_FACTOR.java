@@ -2,7 +2,7 @@ package com.lillanm.pta.day2;
 
 import java.util.Scanner;
 
-public class B_CONTINUOUS_FACTOR {
+public class L1_06_CONTINUOUS_FACTOR {
     public static void main(String[] args) {
         Scanner s=new Scanner(System.in);
         long n=s.nextInt();
